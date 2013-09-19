@@ -1,2 +1,3 @@
 Feature 1 
-Ich wollte auch was aendern 
+Ich wollte auch was aendern
+version 2
